@@ -12,4 +12,6 @@ end
 
 def move(board, converted_input, moves = ["0","X"])
   board = [" "," "," "," "," "," "," "," "," "]
+  def update_array_at_with(array, converted_input, moves = ["0","X"])
+    array = 
 end
